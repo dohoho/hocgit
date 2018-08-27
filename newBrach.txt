@@ -2,3 +2,4 @@ git checkout -b newbranch
 git stash, git stash list, git stash show, git stash apply stash@{number}
 git stash pop stash@{number of stash}
 git stash clear: clear all stack
+git fetch download and not merge, git pull: download and merge
