@@ -1,0 +1,33 @@
+From 4833157e48de9dc784d516d33470729fe32f53ee Mon Sep 17 00:00:00 2001
+From: dohoho <dohoho.23.95@gmail.com>
+Date: Mon, 27 Aug 2018 11:13:04 +0700
+Subject: [PATCH 2/2] sua conflict
+
+---
+ faq.html | 8 ++------
+ 1 file changed, 2 insertions(+), 6 deletions(-)
+
+diff --git a/faq.html b/faq.html
+index 298ba19..6b773b8 100644
+--- a/faq.html
++++ b/faq.html
+@@ -1,13 +1,9 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+-<<<<<<< HEAD
+-	<title>Hoang</title>
+-=======
+-	<title></title>
+->>>>>>> 3ea0ef82c3e4f4d25e9fcd97e22d20a63fc7b1f2
++Khong co gi
+ </head>
+ <body>
+ 
+ </body>
+-</html>
+\ No newline at end of file
++</html>
+-- 
+2.7.4
+
