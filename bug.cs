@@ -7,6 +7,7 @@ namespace Hoang
 		public static void Main(string args[])
 		{
 			Console.WriteLine("Hello Worldjshdsjhd");
+			Console.WriteLine("haha");
 			Console.ReadKey();
 		}
 	}
